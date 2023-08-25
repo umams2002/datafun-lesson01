@@ -36,6 +36,7 @@ int() is a built-in function that converts a value to an integer.
 
 # import setup_logger function from instructor-generated module
 from util_logger import setup_logger
+from datetime import date
 
 # setup the logger using the current file name (a built-in variable)
 logger, logname = setup_logger(__file__)
@@ -92,4 +93,16 @@ if response == "y":
     print("We'll learn more about them later.")
     print()
 
+response2 = input ("Would you like to know today's date?(y/n)"). lower()
+logger.info(f"response2 = {response2}")
+print(f"You said {response2}!/")
+print(f"{hint}")
+
+if response2 == "y":
+    print()
+    print(f"Today's date is {date.today()}")
+    print()
+else:
+    print()
+    print(f"Thank you {name}")
 # TODO: Run with different responses n, y, other...

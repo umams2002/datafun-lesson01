@@ -1,0 +1,15 @@
+2023-08-25 14:13:21,844.basic_functions.INFO ==================================================
+2023-08-25 14:13:21,844.basic_functions.INFO Today is 2023-08-25 at 02:13 PM
+2023-08-25 14:13:22,003.basic_functions.INFO Running on: nt Windows 10
+2023-08-25 14:13:22,004.basic_functions.INFO Python version:  3.11.5
+2023-08-25 14:13:22,005.basic_functions.INFO Python path: C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0
+2023-08-25 14:13:22,006.basic_functions.INFO Working dir: C:\Users\A2645055\OneDrive - H&R BLOCK LTD\Uma\College\DataFundamental\datafun-lesson01
+2023-08-25 14:13:22,007.basic_functions.INFO ==================================================
+2023-08-25 14:13:22,039.basic_functions.INFO Functions url = https://docs.python.org/3/library/functions.html
+2023-08-25 14:13:22,040.basic_functions.INFO number_list = [1, 2, 3, 4, 5]
+2023-08-25 14:13:22,040.basic_functions.INFO len(number_list) = 5
+2023-08-25 14:13:22,041.basic_functions.INFO min(number_list) = 1
+2023-08-25 14:13:22,041.basic_functions.INFO max(number_list) = 5
+2023-08-25 14:13:25,743.basic_functions.INFO message = Hello Uma!
+2023-08-25 14:13:29,567.basic_functions.INFO response = n
+2023-08-25 14:13:33,258.basic_functions.INFO response2 = n

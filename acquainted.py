@@ -48,8 +48,8 @@ logger, logname = setup_logger(__file__)
 # TODO: Customize these by changing the values - use your own name, etc.
 
 # String data types
-name = "John Doe"
-state = "California"
+name = "Uma Subramanian"
+state = "Kansas"
 country = "USA"
 
 # Integer data types

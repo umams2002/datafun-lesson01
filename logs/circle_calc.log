@@ -1,0 +1,12 @@
+2023-08-25 14:17:50,500.circle_calc.INFO ==================================================
+2023-08-25 14:17:50,500.circle_calc.INFO Today is 2023-08-25 at 02:17 PM
+2023-08-25 14:17:50,614.circle_calc.INFO Running on: nt Windows 10
+2023-08-25 14:17:50,615.circle_calc.INFO Python version:  3.11.5
+2023-08-25 14:17:50,615.circle_calc.INFO Python path: C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0
+2023-08-25 14:17:50,616.circle_calc.INFO Working dir: C:\Users\A2645055\OneDrive - H&R BLOCK LTD\Uma\College\DataFundamental\datafun-lesson01
+2023-08-25 14:17:50,616.circle_calc.INFO ==================================================
+2023-08-25 14:17:56,365.circle_calc.INFO The area of a circle with radius 56.7887778 is 10131.527244352355.
+2023-08-25 14:17:56,365.circle_calc.INFO Eww... that's a lot of decimal places - tmi!
+2023-08-25 14:17:56,366.circle_calc.INFO The area of a circle with radius 56.7887778 is 10131.527244352355.
+2023-08-25 14:17:56,366.circle_calc.INFO The area of a circle with two decimal radius 56.7887778 is 10131.53
+2023-08-25 14:17:56,366.circle_calc.INFO Much better! (After you fix it.)
